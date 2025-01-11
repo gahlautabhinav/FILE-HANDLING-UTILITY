@@ -19,9 +19,6 @@ This repository provides a user-friendly File Handling Utility, designed to simp
 - FileHandlingUtility.java (Main code)
 - sourcefile.txt (Sample Text File)
 
-**TOOLS/TECH. USED:**
-- Java
-
 **KEY FEATURES**
 - **Write to File**: Writes text data into the file by specifying the file path and content. It also provides a confirmation message after successfully writing.
 - **Reading from File**: Retrives and displays the content of a file. It checks for files existance and also handles non-existant files.
@@ -32,6 +29,9 @@ This repository provides a user-friendly File Handling Utility, designed to simp
 - **Simplified File Handling**: This utility streamlines file manipulation by handling resource management (opening, closing files) and potential IO exceptions.
 - **User-Friendly**: The interactive menu guides you through selecting the desired operation and provides clear prompts for file paths and content.
 - **Customizable**: While the provided code demonstrates basic usage, you can easily integrate this utility into your projects by calling its methods with specific file paths and content.
+
+**TOOLS/TECH. USED:**
+- Java
 
 **USAGE**
 - **Clone or Download the Repo**: Access the code by cloning this repository or downloading the ZIP file.
