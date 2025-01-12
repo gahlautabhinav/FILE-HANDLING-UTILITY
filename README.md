@@ -31,7 +31,7 @@ This repository provides a user-friendly File Handling Utility, designed to simp
 - **Customizable**: While the provided code demonstrates basic usage, you can easily integrate this utility into your projects by calling its methods with specific file paths and content.
 
 **TOOLS/TECH. USED:**
-- **Java**: The core programming language used for FileHandlingUtility
+- **Java**: The core programming language used for `FileHandlingUtility`
 
 **USAGE**
 - **Clone or Download the Repo**: Access the code by cloning this repository or downloading the ZIP file.
