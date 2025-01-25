@@ -21,8 +21,11 @@ This repository provides a user-friendly File Handling Utility, designed to simp
 
 **KEY FEATURES**
 - **Write to File**: Writes text data into the file by specifying the file path and content. It also provides a confirmation message after successfully writing.
+
 - **Reading from File**: Retrives and displays the content of a file. It checks for files existance and also handles non-existant files.
+
 - **Modify File**: Replaces specific content in the file with new content. This allows for targeted edits without rewriting the entire file.
+
 - **Interactive Menu**: The utility funcitonalities can be accessed through a user-friendly menu. Choose from writing, reading, modifying or exiting the program.
 
 **BENEFITS**
