@@ -1,17 +1,5 @@
 # FILE-HANDLING-UTILITY
 
-**COMPANY**: CODTECH IT SOLUTIONS
-
-**NAME**: ABHINAV GAHLAUT
-
-**INTERN ID**: CT12FRU
-
-**DOMAIN**: JAVA PROGRAMMING
-
-**BATCH DURATION**: December 25th, 2024 to February 25th, 2025
-
-**MENTOR NAME**: NEELA SANTHOSH
-
 # **File Handling Utility: A Versatile Tool**
 This repository provides a user-friendly File Handling Utility, designed to simplify file manipulation tasks. Whether you need to write to a text file, read from it or modify it, this project gives a convenient solution.
 
