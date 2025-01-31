@@ -1,5 +1,3 @@
-# FILE-HANDLING-UTILITY
-
 # **File Handling Utility: A Versatile Tool**
 This repository provides a user-friendly File Handling Utility, designed to simplify file manipulation tasks. Whether you need to write to a text file, read from it or modify it, this project gives a convenient solution.
 
